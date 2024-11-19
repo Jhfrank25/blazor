@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Harry\\RiderProjects\\BlazorApp2\\BlazorApp2\\BlazorApp2.csproj": {}
+    "C:\\Users\\Harry\\RiderProjects\\BlazorTutorials\\BlazorApp2\\BlazorApp2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Harry\\RiderProjects\\BlazorApp2\\BlazorApp2\\BlazorApp2.csproj": {
+    "C:\\Users\\Harry\\RiderProjects\\BlazorTutorials\\BlazorApp2\\BlazorApp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Harry\\RiderProjects\\BlazorApp2\\BlazorApp2\\BlazorApp2.csproj",
+        "projectUniqueName": "C:\\Users\\Harry\\RiderProjects\\BlazorTutorials\\BlazorApp2\\BlazorApp2.csproj",
         "projectName": "BlazorApp2",
-        "projectPath": "C:\\Users\\Harry\\RiderProjects\\BlazorApp2\\BlazorApp2\\BlazorApp2.csproj",
+        "projectPath": "C:\\Users\\Harry\\RiderProjects\\BlazorTutorials\\BlazorApp2\\BlazorApp2.csproj",
         "packagesPath": "C:\\Users\\Harry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Harry\\RiderProjects\\BlazorApp2\\BlazorApp2\\obj\\",
+        "outputPath": "C:\\Users\\Harry\\RiderProjects\\BlazorTutorials\\BlazorApp2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Harry\\AppData\\Roaming\\NuGet\\NuGet.Config"
