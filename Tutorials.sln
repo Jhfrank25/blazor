@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoList", "TodoList\TodoList.csproj", "{D9E36BE0-B822-483F-A9C6-6604769B0130}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "movie-database", "movie-database\movie-database.csproj", "{A29E366F-2348-40E3-8B33-AB0876D68493}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{D9E36BE0-B822-483F-A9C6-6604769B0130}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9E36BE0-B822-483F-A9C6-6604769B0130}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9E36BE0-B822-483F-A9C6-6604769B0130}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A29E366F-2348-40E3-8B33-AB0876D68493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A29E366F-2348-40E3-8B33-AB0876D68493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A29E366F-2348-40E3-8B33-AB0876D68493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A29E366F-2348-40E3-8B33-AB0876D68493}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
